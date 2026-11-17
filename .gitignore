@@ -1,0 +1,8 @@
+# 방문자별 사용자 데이터 (저장소에 올리지 않음)
+data/
+items.json
+*.tmp
+
+__pycache__/
+*.pyc
+.playwright-mcp/
